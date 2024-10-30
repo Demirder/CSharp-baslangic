@@ -1,0 +1,42 @@
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.exe
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.deps.json
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.runtimeconfig.json
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.dll
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.pdb
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.dll
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\refint\BankamatikDeneme.dll
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.pdb
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\BankamatikDeneme\BankamatikDeneme\obj\Debug\net8.0\ref\BankamatikDeneme.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\refint\BankamatikDeneme.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\ref\BankamatikDeneme.dll
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.exe
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.deps.json
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.runtimeconfig.json
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.dll
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\bin\Debug\net8.0\BankamatikDeneme.pdb
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.dll
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\refint\BankamatikDeneme.dll
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.pdb
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\BankamatikDeneme.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\24.10-BankamatikDeneme-odevi\BankamatikDeneme\obj\Debug\net8.0\ref\BankamatikDeneme.dll
