@@ -30,7 +30,7 @@ class Program
 
                         if (sayac == 3)
                         {
-                            Console.WriteLine("3 kez hatalı giriş yaptınız. Program sonlandırılıyor.");
+                            Console.WriteLine("3 kez hatalı giriş yaptınız. Program sonlandırılıyor.\nKartınıza ATM tarafından el konulmuştur, kartınızı almak için lütfen bankaya başvurun.");
                             return; // Programdan çık
                         }
                     }
