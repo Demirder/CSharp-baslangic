@@ -154,7 +154,7 @@ class Program
                                                     string eftHesapNumarasi = Console.ReadLine();
 
                                                     // EFT hesap numarasının doğrulaması
-                                                    if (eftHesapNumarasi.Length == 12 && eftHesapNumarasi.StartsWith("TR") && eftHesapNumarasi.Substring(2).All(char.IsDigit))
+                                                    if (eftHesapNumarasi.Length == 14 && eftHesapNumarasi.StartsWith("TR") && eftHesapNumarasi.Substring(2).All(char.IsDigit))
                                                     {
                                                         Console.WriteLine("Ne kadar para göndermek istiyorsunuz?");
                                                         int eftMiktari;
@@ -551,7 +551,7 @@ class Program
                                     string eftHesapNumarasi = Console.ReadLine();
 
                                     // EFT hesap numarasının doğrulaması
-                                    if (eftHesapNumarasi.Length == 12 && eftHesapNumarasi.StartsWith("TR") && eftHesapNumarasi.Substring(2).All(char.IsDigit))
+                                    if (eftHesapNumarasi.Length == 14 && eftHesapNumarasi.StartsWith("TR") && eftHesapNumarasi.Substring(2).All(char.IsDigit))
                                     {
                                         Console.WriteLine("Ne kadar para göndermek istiyorsunuz?");
                                         int eftMiktari;
