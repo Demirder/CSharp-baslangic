@@ -154,7 +154,7 @@ class Program
                                                     string eftHesapNumarasi = Console.ReadLine();
 
                                                     // EFT hesap numarasının doğrulaması
-                                                    if (eftHesapNumarasi.Length == 14 && eftHesapNumarasi.StartsWith("TR") && eftHesapNumarasi.Substring(2).All(char.IsDigit))
+                                                    if (eftHesapNumarasi.Length == 14 && eftHesapNumarasi.Substring(0, 2).ToUpper() == "TR" && eftHesapNumarasi.Substring(2).All(char.IsDigit))
                                                     {
                                                         Console.WriteLine("Ne kadar para göndermek istiyorsunuz?");
                                                         int eftMiktari;
@@ -362,9 +362,16 @@ class Program
                                     Console.WriteLine("Bilgi Güncelleme işlemi seçildi.");
                                     Console.WriteLine("Yeni şifrenizi giriniz.");
                                     string yeniSifre = Console.ReadLine();
+                                    Console.WriteLine("Yeni şifrenizi tekrar giriniz.");
+                                    string yeniSifre2 = Console.ReadLine();
 
-                                    // 4 haneli şifre kontrolü
-                                    if (yeniSifre.Length == 4 && yeniSifre.All(char.IsDigit))
+                                   if (yeniSifre != yeniSifre2)
+                                     {
+                                          Console.WriteLine("Yeni şifreler uyuşmuyor! Lütfen şifreyi doğru giriniz.");
+                                     }
+
+                                  // 4 haneli şifre kontrolü
+                                    else if (yeniSifre.Length == 4 && yeniSifre.All(char.IsDigit))
                                     {
                                         Console.WriteLine("Şifre başarıyla güncellendi.");
                                         // Burada şifreyi güncelleme işlemi yapılabilir.
@@ -551,7 +558,7 @@ class Program
                                     string eftHesapNumarasi = Console.ReadLine();
 
                                     // EFT hesap numarasının doğrulaması
-                                    if (eftHesapNumarasi.Length == 14 && eftHesapNumarasi.StartsWith("TR") && eftHesapNumarasi.Substring(2).All(char.IsDigit))
+                                    if (eftHesapNumarasi.Length == 14 && eftHesapNumarasi.Substring(0, 2).ToUpper() == "TR" && eftHesapNumarasi.Substring(2).All(char.IsDigit))
                                     {
                                         Console.WriteLine("Ne kadar para göndermek istiyorsunuz?");
                                         int eftMiktari;
