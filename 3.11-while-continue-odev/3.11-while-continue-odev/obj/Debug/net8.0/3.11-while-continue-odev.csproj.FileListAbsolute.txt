@@ -1,0 +1,14 @@
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\bin\Debug\net8.0\3.11-while-continue-odev.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\bin\Debug\net8.0\3.11-while-continue-odev.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\bin\Debug\net8.0\3.11-while-continue-odev.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\bin\Debug\net8.0\3.11-while-continue-odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\bin\Debug\net8.0\3.11-while-continue-odev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\refint\3.11-while-continue-odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\3.11-while-continue-odev.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-while-continue-odev\3.11-while-continue-odev\obj\Debug\net8.0\ref\3.11-while-continue-odev.dll
