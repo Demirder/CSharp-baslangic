@@ -1,0 +1,14 @@
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\bin\Debug\net8.0\3.11-odev.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\bin\Debug\net8.0\3.11-odev.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\bin\Debug\net8.0\3.11-odev.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\bin\Debug\net8.0\3.11-odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\bin\Debug\net8.0\3.11-odev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\refint\3.11-odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\3.11-odev.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\3.11-odev\3.11-switch-case-odev\3.11-odev\obj\Debug\net8.0\ref\3.11-odev.dll
