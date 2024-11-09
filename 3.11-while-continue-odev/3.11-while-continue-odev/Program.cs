@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main()
     {
-        int toplam = 0; // Toplamı tutacak değişken
-        int sayi; // Kullanıcının girdiği sayı
-        int sayiSayisi = 0; // Girilen pozitif sayıların sayısını tutacak değişken
+        double toplam = 0; // Toplamı tutacak değişken
+        double sayi; // Kullanıcının girdiği sayı
+        double sayiAdeti = 0; // Girilen pozitif sayıların sayısını tutacak değişken
 
         while (true) // Sonsuz döngü
         {
@@ -17,7 +17,7 @@ class Program
             if (sayi == 0)
             {
                 // Eğer hiç pozitif sayı girilmemişse, tekrar sayı iste
-                if (sayiSayisi == 0)
+                if (sayiAdeti == 0)
                 {
                     Console.WriteLine("Lütfen pozitif bir sayı giriniz!"); /* Eğer kullanıcı ilk defa 0 girmişse (yani sayiSayisi 0'dır), bir hata mesajı verilir ve döngü tekrar başlatılır. Bu durumda kullanıcıdan tekrar pozitif bir sayı girmesi istenir */
                     continue; // Döngünün başına dön
@@ -34,13 +34,13 @@ class Program
 
             // Pozitif sayıyı toplama ekle
             toplam += sayi;
-            sayiSayisi++; // Pozitif sayı sayısını artır
+            sayiAdeti++; // Pozitif sayı sayısını artır
         }
 
         // Ortalama hesapla ve yazdır
-        if (sayiSayisi > 0)
+        if (sayiAdeti > 0)
         {
-            double ortalama = (double)toplam / sayiSayisi; // Ortalama hesapla
+            double ortalama = (double)toplam / sayiAdeti; // Ortalama hesapla
             Console.WriteLine("Girilen pozitif sayıların toplamı: " + toplam);
             Console.WriteLine("Girilen pozitif sayıların ortalaması: " + ortalama);
         }
