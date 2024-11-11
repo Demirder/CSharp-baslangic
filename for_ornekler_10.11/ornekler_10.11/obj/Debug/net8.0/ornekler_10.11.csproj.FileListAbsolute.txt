@@ -1,0 +1,14 @@
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\bin\Debug\net8.0\ornekler_10.11.exe
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\bin\Debug\net8.0\ornekler_10.11.deps.json
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\bin\Debug\net8.0\ornekler_10.11.runtimeconfig.json
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\bin\Debug\net8.0\ornekler_10.11.dll
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\bin\Debug\net8.0\ornekler_10.11.pdb
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.AssemblyInfoInputs.cache
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.AssemblyInfo.cs
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.csproj.CoreCompileInputs.cache
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.dll
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\refint\ornekler_10.11.dll
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.pdb
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ornekler_10.11.genruntimeconfig.cache
+C:\Users\202\Desktop\ornekler_10.11\ornekler_10.11\obj\Debug\net8.0\ref\ornekler_10.11.dll
