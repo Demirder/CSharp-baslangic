@@ -1,0 +1,14 @@
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\bin\Debug\net8.0\17.11_odev.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\bin\Debug\net8.0\17.11_odev.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\bin\Debug\net8.0\17.11_odev.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\bin\Debug\net8.0\17.11_odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\bin\Debug\net8.0\17.11_odev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\refint\17.11_odev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\17.11_odev.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_odev\17.11_odev\obj\Debug\net8.0\ref\17.11_odev.dll
