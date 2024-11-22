@@ -1,0 +1,14 @@
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\bin\Debug\net8.0\17.11_dizi.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\bin\Debug\net8.0\17.11_dizi.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\bin\Debug\net8.0\17.11_dizi.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\bin\Debug\net8.0\17.11_dizi.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\bin\Debug\net8.0\17.11_dizi.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\refint\17.11_dizi.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\17.11_dizi.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\17.11_dizi\17.11_dizi\obj\Debug\net8.0\ref\17.11_dizi.dll
