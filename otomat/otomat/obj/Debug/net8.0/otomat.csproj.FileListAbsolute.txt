@@ -1,0 +1,56 @@
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\refint\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\ref\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\bin\Debug\net8.0\otomat.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\refint\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\otomat.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\16.11_otomat\otomat\otomat\obj\Debug\net8.0\ref\otomat.dll
+C:\Users\Toshiba\Desktop\otomat\otomat\bin\Debug\net8.0\otomat.exe
+C:\Users\Toshiba\Desktop\otomat\otomat\bin\Debug\net8.0\otomat.deps.json
+C:\Users\Toshiba\Desktop\otomat\otomat\bin\Debug\net8.0\otomat.runtimeconfig.json
+C:\Users\Toshiba\Desktop\otomat\otomat\bin\Debug\net8.0\otomat.dll
+C:\Users\Toshiba\Desktop\otomat\otomat\bin\Debug\net8.0\otomat.pdb
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.dll
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\refint\otomat.dll
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.pdb
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\otomat.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\otomat\otomat\obj\Debug\net8.0\ref\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\bin\Debug\net8.0\otomat.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\bin\Debug\net8.0\otomat.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\bin\Debug\net8.0\otomat.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\bin\Debug\net8.0\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\bin\Debug\net8.0\otomat.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\refint\otomat.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\otomat.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\otomat\otomat\obj\Debug\net8.0\ref\otomat.dll
