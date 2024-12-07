@@ -1,0 +1,28 @@
+C:\Users\Toshiba\Desktop\ödev\ödev\bin\Debug\net8.0\ödev.exe
+C:\Users\Toshiba\Desktop\ödev\ödev\bin\Debug\net8.0\ödev.deps.json
+C:\Users\Toshiba\Desktop\ödev\ödev\bin\Debug\net8.0\ödev.runtimeconfig.json
+C:\Users\Toshiba\Desktop\ödev\ödev\bin\Debug\net8.0\ödev.dll
+C:\Users\Toshiba\Desktop\ödev\ödev\bin\Debug\net8.0\ödev.pdb
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.dll
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\refint\ödev.dll
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.pdb
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ödev.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\ödev\ödev\obj\Debug\net8.0\ref\ödev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\bin\Debug\net8.0\ödev.exe
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\bin\Debug\net8.0\ödev.deps.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\bin\Debug\net8.0\ödev.runtimeconfig.json
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\bin\Debug\net8.0\ödev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\bin\Debug\net8.0\ödev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.AssemblyInfoInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.AssemblyInfo.cs
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\refint\ödev.dll
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.pdb
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ödev.genruntimeconfig.cache
+C:\Users\Demir\Desktop\Yazılım ve Programlama\c#\c# tekrarlarım ve ödevler\odevler\01.12-dizi\ödev\obj\Debug\net8.0\ref\ödev.dll
