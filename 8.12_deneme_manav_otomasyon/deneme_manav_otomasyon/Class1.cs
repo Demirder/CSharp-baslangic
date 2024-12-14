@@ -111,9 +111,5 @@ internal class Manav
     }
 }
 
-internal class Musterisepeti
-{
-    
 
-}
 
