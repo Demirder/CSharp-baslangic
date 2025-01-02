@@ -81,7 +81,7 @@ namespace ogrenci_not_ort
             OgretimDuzeyi ogretimDuzeyi = (OgretimDuzeyi)(ogretimDuzeyiSecimi - 1);
 
             // Yeni öğrenci nesnesi oluşturuluyor
-            ogrenci_bilgileri ogrenci = new ogrenci_bilgileri("Demir Derin", 1, OgretimDuzeyi.Lise) //Nesne Başlatma (Object Initializer) yöntemi, özellikle nesne özelliklerini tek bir satırda başlatmak ve daha esnek bir yapı kurmak için kullanışlıdır.
+            ogrenci_bilgileri ogrenci = new ogrenci_bilgileri("Demir Derin", 1, OgretimDuzeyi.Lise) //Nesne Başlatma (Object Initializer) yöntemi, özellikle nesne özelliklerini tek bir satırda başlatmak ve daha esnek bir yapı kurmak için kullanışlı, constructor metoduna koyulmuş olan isimleri ana classtaki değişkenlere atıyorum
             {
                 Adsoyad = adSoyad,
                 Okulnumarasi = okulNumarasi,
